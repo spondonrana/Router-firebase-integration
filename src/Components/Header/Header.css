@@ -1,12 +1,18 @@
 nav a{
     margin-right: 20px;
     text-decoration: none;
-    color: black;
+    color: #fff;
     font-size: larger;
     font-weight: 700;
     font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: black;
+    padding: 10px;
+    border-radius: 5px;
 }
 
 nav a:hover{
-    color: goldenrod;
+    color: orange;
+    background-color: black;
+    padding: 10px;
+    border-radius: 5px;
 }
